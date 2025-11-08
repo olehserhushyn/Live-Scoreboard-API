@@ -1,0 +1,6 @@
+@Live_Scoreboard_HostAddress = http://localhost:5217
+
+GET {{Live_Scoreboard_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
